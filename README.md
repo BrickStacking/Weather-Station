@@ -10,3 +10,5 @@ To make this project, you guys need somethings like
 -Sd card module (use SD card to expand memory and save image, icon weather)
 
 Inside is full code and Altium File. Hope you guys love it. And give me a star :D 
+
+Note: The line chart of temperature isn't finish. Complete it for me :3
